@@ -6,6 +6,9 @@
                     display: inline-flex;
                     align-items: center;
                 }
+                p {
+                    color: white;
+                }
             </style>
             <div class="center">
                 <svg viewBox="0 0 128 128" height="24" width="24">
