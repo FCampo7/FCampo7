@@ -5,7 +5,7 @@
 
 ### Contacto:
 <a href="https://www.linkedin.com/in/francisco-luis-campo-2021a7220/">
-    <img src="LinkedIn.svg" width="400" height="400" alt="Linked In">
+    <img src="LinkedIn.svg" width="auto" height="auto" alt="Linked In">
 </a>
 
 ---
