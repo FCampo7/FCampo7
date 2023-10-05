@@ -3,10 +3,11 @@
 - 👨🏻‍🏫 Profesor ayudante de materias de programación en Universidad Favaloro.
 - 👨🏻‍💻 En mi tiempo libre aprendo lenguajes nuevos y experimento con proyectos diferentes.
 
-### Contacto:
-<a href="https://www.linkedin.com/in/francisco-luis-campo-2021a7220/">
-    <img src="LinkedIn.svg" width="auto" height="auto" alt="Linked In">
-</a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/francisco-luis-campo-2021a7220/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ---
 ### :hammer_and_wrench: Lenguajes y Herramientas:
@@ -32,6 +33,7 @@
 </div>
 
 ---
+
 ![GitHub Streak](https://github-readme-stats-two-nu-79.vercel.app/api?username=FCampo7&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCampo7&hide_progress=true&theme=merko)
@@ -39,6 +41,7 @@
 
 <p><a  href="https://icons8.com/icon/gVK745a4Vaur/assembly">Assembly</a> icon by <a href="https://icons8.com">Icons8</a></p>
 <p>Los demas iconos pertenecen a <a href="https://devicon.dev/">DevIcon</a></p>
+
 <!--
 **FCampo7/FCampo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
