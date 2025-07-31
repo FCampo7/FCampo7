@@ -1,5 +1,5 @@
 ### Sobre mí:
-- 👨🏻‍🏫 Fui Jefe de trabajos practicos (JTP) y Profesor ayudante de las materias Introducción a red e internet, Laboratiorio de programción 1 y 2, Base de datos e Ingeniería de software en Universidad Favaloro FICEN.
+- 👨🏻‍🏫 Fui Jefe de trabajos practicos (JTP) y Profesor ayudante de las materias Introducción a redes e internet, Laboratorio de programación 1 y 2, Base de datos e Ingeniería de software en Universidad Favaloro FICEN.
 - 🦾 Estudiante avanzado de Ingeniería Biomédica.
 - 💻 Estudiante de Diplomatura en desarrollo fullstack Web
 - 👨🏻‍💻 En mi tiempo libre aprendo lenguajes nuevos y experimento con proyectos diferentes.
