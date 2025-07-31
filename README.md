@@ -1,6 +1,7 @@
 ### Sobre mí:
+- 👨🏻‍🏫 Ex Jefe de trabajo practicos y Profesor ayudante de materias de programación en Universidad Favaloro FICEN.
 - 🦾 Estudiante de Ingeniería Biomédica.
-- 👨🏻‍🏫 Profesor ayudante de materias de programación en Universidad Favaloro.
+- 💻 Estudiante de Diplomatura en desarrollo fullstack Web
 - 👨🏻‍💻 En mi tiempo libre aprendo lenguajes nuevos y experimento con proyectos diferentes.
 
 <div id="badges">
